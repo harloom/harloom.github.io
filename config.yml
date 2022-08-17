@@ -2,7 +2,6 @@ baseURL: https://harloom.github.io
 languageCode: en-us
 title: Home
 theme : "PaperMod"
-
 menu:
   main:
     - identifier: archive
