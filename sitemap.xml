@@ -5,14 +5,14 @@
     <loc>https://harloom.github.io/archive/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://harloom.github.io/portfolio/cyber-security/</loc>
-  </url><url>
     <loc>https://harloom.github.io/search/</loc>
     <priority>0</priority>
   </url><url>
     <loc>https://harloom.github.io/portfolio/android/</loc>
   </url><url>
     <loc>https://harloom.github.io/portfolio/backend/</loc>
+  </url><url>
+    <loc>https://harloom.github.io/portfolio/tools/</loc>
   </url><url>
     <loc>https://harloom.github.io/categories/</loc>
   </url><url>
