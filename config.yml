@@ -56,7 +56,7 @@ params:
 
   socialIcons: # optional
         - name: "linkedin"
-          url: "http://linkedin.com/in"
+          url: "https://www.linkedin.com/in/ilham-solehudin-52bb5b169"
         - name: "github"
           url: "https://github.com/harloom"
 

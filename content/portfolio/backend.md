@@ -5,13 +5,11 @@ tags: ['portfolio']
 categories: ['portfolio']
 author: "ilham Solehudin"
 draft: false
-summary: "List of Android Apps"
+summary: "List of Backend Apps"
 ---
 
-
-![alt text](/lakukan-mobile/1.PNG)
 * Lakukan [Startup] [`https://lakukan.co.id/`]('https://play.google.com/store/apps/details?id=com.hesdigitech.lakukan')
-* Tech Stack : Flutter, GetX , StreamChat, Firebase, Google Auth
+* Tech Stack : Node.js, Express, MongoDB, Docker, Firebase Auth, Kong Gateway
 
 -------------------------------
 
