@@ -44,7 +44,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Ilham Solehudin
-    subtitle: "Software Engineer"
+    subtitle: "Software Apps Development"
     imageUrl: "/profiles.jpg"
     imageWidth: 120
     imageHeight: 120
