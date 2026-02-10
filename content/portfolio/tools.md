@@ -1,6 +1,6 @@
 ---
 title: "[Porfolio] Tools "
-date: '2022-08-5 05:00:00'
+date: '2022-08-05T05:00:00+00:00'
 tags: ['portfolio']
 categories: ['portfolio']
 author: "ilham Solehudin"

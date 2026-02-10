@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Portfolio on Home</title>
+    <link>http://localhost:1313/tags/portfolio/</link>
+    <description>Recent content in Portfolio on Home</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Aug 2022 05:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Porfolio] Backend Apps</title>
+      <link>http://localhost:1313/portfolio/backend/</link>
+      <pubDate>Fri, 05 Aug 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/backend/</guid>
+      <description>List of Backend Apps</description>
+    </item>
+    <item>
+      <title>[Porfolio] Mobile Apps</title>
+      <link>http://localhost:1313/portfolio/mobile/</link>
+      <pubDate>Fri, 05 Aug 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/mobile/</guid>
+      <description>List of Mobile  Apps</description>
+    </item>
+    <item>
+      <title>[Porfolio] Tools </title>
+      <link>http://localhost:1313/portfolio/tools/</link>
+      <pubDate>Fri, 05 Aug 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/tools/</guid>
+      <description>List of Tools</description>
+    </item>
+  </channel>
+</rss>
