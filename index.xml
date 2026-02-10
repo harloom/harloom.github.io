@@ -4,52 +4,51 @@
     <title>Home</title>
     <link>https://harloom.github.io/</link>
     <description>Recent content on Home</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://harloom.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Feb 2026 05:00:00 +0000</lastBuildDate>
+    <atom:link href="https://harloom.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Porfolio] Mobile Apps</title>
+      <link>https://harloom.github.io/portfolio/mobile/</link>
+      <pubDate>Thu, 05 Feb 2026 05:00:00 +0000</pubDate>
+      <guid>https://harloom.github.io/portfolio/mobile/</guid>
+      <description>List of Mobile  Apps</description>
+    </item>
+    <item>
+      <title>[Porfolio] Web Apps</title>
+      <link>https://harloom.github.io/portfolio/webapp/</link>
+      <pubDate>Thu, 05 Feb 2026 05:00:00 +0000</pubDate>
+      <guid>https://harloom.github.io/portfolio/webapp/</guid>
+      <description>List of Web Apps</description>
+    </item>
+    <item>
+      <title>[Porfolio] Backend Apps</title>
+      <link>https://harloom.github.io/portfolio/backend/</link>
+      <pubDate>Fri, 05 Aug 2022 05:00:00 +0000</pubDate>
+      <guid>https://harloom.github.io/portfolio/backend/</guid>
+      <description>List of Backend Apps</description>
+    </item>
+    <item>
+      <title>[Porfolio] Tools </title>
+      <link>https://harloom.github.io/portfolio/tools/</link>
+      <pubDate>Fri, 05 Aug 2022 05:00:00 +0000</pubDate>
+      <guid>https://harloom.github.io/portfolio/tools/</guid>
+      <description>List of Tools</description>
+    </item>
     <item>
       <title></title>
       <link>https://harloom.github.io/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://harloom.github.io/archive/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://harloom.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://harloom.github.io/search/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>[Porfolio] Android Apps</title>
-      <link>https://harloom.github.io/portfolio/android/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://harloom.github.io/portfolio/android/</guid>
-      <description>List of Android Apps</description>
-    </item>
-    
-    <item>
-      <title>[Porfolio] Backend Apps</title>
-      <link>https://harloom.github.io/portfolio/backend/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://harloom.github.io/portfolio/backend/</guid>
-      <description>List of Backend Apps</description>
-    </item>
-    
-    <item>
-      <title>[Porfolio] Tools </title>
-      <link>https://harloom.github.io/portfolio/tools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://harloom.github.io/portfolio/tools/</guid>
-      <description>List of Tools</description>
-    </item>
-    
   </channel>
 </rss>
