@@ -11,8 +11,8 @@ summary: "List of Web Apps"
 
 
 
-![alt text](/katadata/new-green.webp)
-* ESG Dashboard 2026 [Company] 
+![alt text](/katadata/kesgi.webp)
+* KESGI Dashboard [Company] 
 * Tech Stack : Next js, Laravel, Postgress, Tailwind, AI Model
 
 
